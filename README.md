@@ -17,14 +17,14 @@ sh student.sh
 To train $SGR$ on Spurious-Motif dataset:
 
 ```python
-!cd spmotif_codes
+# cd spmotif_codes
 sh student.sh
 ```
 
 To train $SGR$ on Graph-SST2 dataset:
 
 ```python
-!cd sst_codes
+# cd sst_codes
 sh student.sh
 ```
 
