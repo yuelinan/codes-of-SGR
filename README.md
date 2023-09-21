@@ -1,4 +1,4 @@
-Official implementation "Learning from Shortcut: A Shortcut-guided Approach for Graph Rationalization".
+Official implementation of "Learning from Shortcut: A Shortcut-guided Approach for Graph Rationalization".
 
 ## Data download
 - Spurious-Motif: this dataset can be generated via `spmotif_gen/spmotif.ipynb` in [DIR](https://github.com/Wuyxin/DIR-GNN/tree/main). 
