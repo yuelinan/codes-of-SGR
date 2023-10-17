@@ -57,7 +57,7 @@ def get_args():
     parser.add_argument('--date', type=str, default='0402')
     parser.add_argument('--model_name', type=str, default='Graph_Student', help='model name')
     parser.add_argument('--train_type', type=str, default='student', help='model name')
-    parser.add_argument('--teacher_model', type=str, default='/data/lnyue/GREA-main/teacher_model/teacher_0', help='model name')
+    parser.add_argument('--teacher_model', type=str, default='./teacher_0', help='model name')
 
     args = parser.parse_args()
     
