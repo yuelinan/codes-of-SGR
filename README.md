@@ -1,4 +1,4 @@
-Official implementation of "Learning from Shortcut: A Shortcut-guided Approach for Explainable Graph Learning".
+Official implementation of FCS paper "Learning from Shortcut: A Shortcut-guided Approach for Explainable Graph Learning".
 
 ## Data download
 - Spurious-Motif: this dataset can be generated via `spmotif_gen/spmotif.ipynb` in [DIR](https://github.com/Wuyxin/DIR-GNN/tree/main). 
