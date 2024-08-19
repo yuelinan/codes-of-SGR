@@ -8,20 +8,20 @@ Official implementation of FCS paper "Learning from Shortcut: A Shortcut-guided 
 
 ## How to run SGR?
 
-To train $SGR$ on OGBG dataset:
+To train SGR on OGBG dataset:
 
 ```python
 sh student.sh
 ```
 
-To train $SGR$ on Spurious-Motif dataset:
+To train SGR on Spurious-Motif dataset:
 
 ```python
 # cd spmotif_codes
 sh student.sh
 ```
 
-To train $SGR$ on Graph-SST2 dataset:
+To train SGR on Graph-SST2 dataset:
 
 ```python
 # cd sst_codes
